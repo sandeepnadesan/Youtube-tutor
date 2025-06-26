@@ -20,6 +20,7 @@ load_dotenv()
 
 # Set API keys
 # os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY")
+os.environ["GROQ_API_KEY"] = st.secrets["GROQ_API_KEY"]
 
 def get_youtube_transcript(url):
     try:

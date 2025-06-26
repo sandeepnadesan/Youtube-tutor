@@ -11,3 +11,4 @@ transformers
 torch
 langchain_huggingface
 youtube-transcript-api
+faiss-cpu

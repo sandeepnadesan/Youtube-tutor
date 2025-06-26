@@ -9,3 +9,4 @@ tqdm
 scikit-learn
 transformers
 torch
+langchain_huggingface

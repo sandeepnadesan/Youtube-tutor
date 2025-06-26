@@ -10,3 +10,4 @@ scikit-learn
 transformers
 torch
 langchain_huggingface
+youtube-transcript-api
